@@ -4,6 +4,12 @@ cjs (4.4.0) tricia; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sat, 16 Nov 2019 11:42:59 +0100
 
+cjs (4.2.0-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 06 Oct 2019 19:31:16 +0200
+
 cjs (4.2.0) tina; urgency=medium
 
   [ Eli Schwartz ]
