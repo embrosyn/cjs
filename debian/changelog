@@ -1,3 +1,9 @@
+cjs (4.4.0-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sat, 28 Dec 2019 00:15:06 +0100
+
 cjs (4.4.0) tricia; urgency=medium
 
   * 4.4.0
